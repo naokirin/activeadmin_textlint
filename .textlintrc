@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "preset-japanese": true,
+    "prh": {
+      "rulePaths": [
+        "./config/textlint_rules/prh_rules/icsmedia/prh_idiom.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_open_close.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_redundancy.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_duplicate.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_cho_on.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_corporation.yml",
+        "./config/textlint_rules/prh_rules/icsmedia/prh_web_technology.yml",
+        "./config/textlint_rules/prh_rules/WEB+DB_PRESS.yml"
+      ]
+    }
+  }
+}
